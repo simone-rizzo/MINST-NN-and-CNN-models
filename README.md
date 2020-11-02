@@ -23,4 +23,10 @@ The Neural Network id made by:
 784 nodes are caused by the dimension of the image 28x28 = 784, we reshape a matrix(28,28) to an array(784).
 <img src='https://simone-rizzo.github.io/MINST-NN-and-CNN-models/nn.bmp' width="600" height="auto">
 
+- Training: Got 55786 / 60000 with accuracy 92.98%
+- Test: Got 9295 / 10000 with accuracy 92.95%
+
 # Convolutional NeuralNetwork
+
+- Training: Got 59089 / 60000 with accuracy 98.48%
+- Test: Got 9842 / 10000 with accuracy 98.42%
