@@ -6,6 +6,7 @@ The MINST database is formed by digits images with labels.
 # Problem
 Build and traing a classifing model for correct classify the digits from 1 to 10.
 The images are made by 28x28 pixels in one channel color gray color.
+
 <img src='https://miro.medium.com/max/800/1*LyRlX__08q40UJohhJG9Ow.png' width="600" height="auto">
 
 # Solutions
