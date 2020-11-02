@@ -27,6 +27,6 @@ The Neural Network id made by:
 - Test: Got 9295 / 10000 with accuracy 92.95%
 
 # Convolutional NeuralNetwork
-
+<img src='https://miro.medium.com/max/3744/1*SGPGG7oeSvVlV5sOSQ2iZw.png' width="600" height="auto">
 - Training: Got 59089 / 60000 with accuracy 98.48%
 - Test: Got 9842 / 10000 with accuracy 98.42%
