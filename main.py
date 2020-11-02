@@ -215,6 +215,7 @@ check_accuracy(test_loader, model)
 save_model(model, './model/mycnn')
 """
 # Previsione su CNN
+batch_size=64
 model = load_CNNmodel('./model/mycnn')
 test_dataset = datasets.MNIST(root='dataset/', train=False, transform=transforms.ToTensor(), download=True)
 test_loader = DataLoader(dataset=test_dataset, batch_size=batch_size, shuffle=True)
